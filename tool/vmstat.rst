@@ -2,7 +2,7 @@
 
 vmstat 监视内存使用情况
 ==========================
-vmstat是Virtual Meomory Statistics（虚拟内存统计）的缩写，可实时动态监视操作系统的虚拟内存、进程、CPU活动。
+vmstat是Virtual Memory Statistics（虚拟内存统计）的缩写，可实时动态监视操作系统的虚拟内存、进程、CPU活动。
 
 vmstat的语法
 --------------------
